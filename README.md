@@ -42,6 +42,7 @@ I am an experienced  developer with a diverse skill set spanning multiple progra
 - **Microsoft SQL Server**: Implementing enterprise-level data solutions
 - **Entity Framework Core**: Simplifying data access and management in .NET applications
 
+<!---               
 ## Projects
 
 [Here you can list some of your key projects with brief descriptions]
@@ -67,3 +68,4 @@ I am an experienced  developer with a diverse skill set spanning multiple progra
 - Email: [Your email address]
 - LinkedIn: [Your LinkedIn profile URL]
 - GitHub: [Your GitHub profile URL]
+-->
